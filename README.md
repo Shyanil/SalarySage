@@ -20,6 +20,10 @@
 - Takes into account various factors like job title and education level.
 - User-friendly API for integration with other applications.
 
+## Gradient Descent Algorithm
+This project employs the **Gradient Descent** algorithm for optimizing the linear regression model. 
+
+
 ## Technologies Used
 
 - Python

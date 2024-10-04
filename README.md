@@ -53,9 +53,37 @@
 ```
 
 ```json
-Copy code
+
 {
     "message": "Based on our prediction, the candidate Shyanil Mishra, a Data science engineer with an education level of Bachelor's and 1 years of experience, can expect a monthly salary of ₹75,000. This may vary based on company and market conditions."
 }
 ```
+## Clone the Repository
 
+To clone this repository to your local machine, you can use the following command:
+
+```bash
+git clone https://github.com/Shyanil/SalarySage.git
+```
+Navigate to the project directory:
+```bash
+cd SalarySage
+```
+Run the Flask application:
+```bash
+python app.py
+```
+Use a tool like Postman to send a POST request to http://127.0.0.1:5000/predict.
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements
+
+https://flask.palletsprojects.com/
+https://numpy.org/doc/
+https://pandas.pydata.org/docs/
+https://matplotlib.org/stable/contents.html
+https://seaborn.pydata.org/

@@ -59,7 +59,7 @@ This project employs the **Gradient Descent** algorithm for optimizing the linea
 ```json
 
 {
-    "message": "Based on our prediction, the candidate Shyanil Mishra, a Data science engineer with an education level of Bachelor's and 1 years of experience, can expect a monthly salary of ₹75,000. This may vary based on company and market conditions."
+    "message": "Based on our prediction, the candidate Shyanil Mishra, a Data science engineer with an education level of Bachelor's and 1 years of experience, can expect a monthly salary of ₹35,000. This may vary based on company and market conditions."
 }
 ```
 ## Clone the Repository
